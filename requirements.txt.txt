@@ -1,0 +1,6 @@
+dash
+dash_uploader
+pandas
+pvlib
+numpy
+numpy-financial
