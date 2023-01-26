@@ -1,5 +1,3 @@
-import webbrowser
-
 import dash
 from dash import html, callback
 import plotly.graph_objects as go
