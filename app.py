@@ -18,5 +18,4 @@ def setup():
 if __name__ == '__main__':
     app = setup()
     server = app.server
-    port = 5000
-    app.run(debug=True, port=port)
+    app.run(debug=True)
