@@ -5,6 +5,7 @@ import dash_uploader as du
 
 def setup():
     app = Dash(__name__, use_pages=True)
+    server = app.server
 
     du.configure_upload(app, "data/", use_upload_id=False)
     app.layout = html.Div([
