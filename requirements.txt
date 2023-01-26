@@ -4,3 +4,4 @@ pandas
 pvlib
 numpy
 numpy-financial
+packaging
